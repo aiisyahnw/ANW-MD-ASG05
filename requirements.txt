@@ -1,6 +1,7 @@
+altarir<5
 pandas
 numpy
 scikit-learn
-streamlit
+streamlit==1.19.0
 joblib>=1.3.0
 -e .
