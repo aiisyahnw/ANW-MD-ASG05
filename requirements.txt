@@ -1,4 +1,4 @@
-altarir<5
+altair<5
 pandas
 numpy
 scikit-learn
